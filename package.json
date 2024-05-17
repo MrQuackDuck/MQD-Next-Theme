@@ -1,0 +1,21 @@
+{
+  "name": "mqd-next",
+  "displayName": "mqd-next",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ocean Next (MQD)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ocean Next (MQD)-color-theme.json"
+      }
+    ]
+  }
+}
